@@ -4,6 +4,8 @@ RapidNav is a **path planning system** that uses the **Rapidly-exploring Random 
 
 ---
 
+
+
 ## Features
 
 - RRT path planning in 2D and 3D environments  
@@ -11,3 +13,5 @@ RapidNav is a **path planning system** that uses the **Rapidly-exploring Random 
 - Collision detection and avoidance  
 - Trajectory extraction for autonomous navigation  
 - Supports dynamic obstacles and complex maps
+
+  
